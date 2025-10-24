@@ -24,10 +24,10 @@ const VocabularyPractice: React.FC = () => {
   return (
     <div className="min-h-screen w-full bg-black flex flex-col items-center justify-center p-6 text-white/90 select-none">
       <div className="border border-white/50 w-full max-w-xl md:max-w-2xl px-8 py-6 rounded-lg bg-white/10">
-        <h1 className="text-2xl mb-6 font-semibold tracking-tight text-center">
+        <h1 className="text-2xl mb-4 md:mb-6 font-semibold tracking-tight text-center">
           Vocabulary Practice
         </h1>
-        <div className="h-px w-[80%] bg-white/50 mb-8 mx-auto" />
+        <div className="h-px w-[80%] bg-white/50 mb-4 md:mb-8 mx-auto" />
 
         {/* Pagination Dots above the card */}
         <PaginationDots

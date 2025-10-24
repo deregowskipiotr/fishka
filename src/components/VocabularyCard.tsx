@@ -31,7 +31,7 @@ const VocabularyCard: React.FC<VocabularyCardProps> = ({
       >
         {/* Front Side */}
         <div className="absolute w-full h-full backface-hidden flex flex-col justify-center items-center p-8 bg-black/40 border border-white/20 rounded-lg">
-          <h2 className=" text-xl md:text-3xl font-semibold italic tracking-wide uppercase text-indigo-200 mb-4 h-1/5">
+          <h2 className=" text-xl md:text-3xl font-semibold italic tracking-wide uppercase text-indigo-200 mb-6 md:mb-4 h-1/5">
             {word}
           </h2>
           <p className="text-white text-center mb-6 h-3/5">{explanation}</p>
