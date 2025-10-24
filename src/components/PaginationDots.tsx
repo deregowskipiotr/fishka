@@ -12,7 +12,7 @@ const PaginationDots: React.FC<PaginationDotsProps> = ({
   totalPages,
   onPageChange,
 }) => (
-  <div className="flex justify-center gap-4 md:gap-2 mb-4 md:mb-6">
+  <div className="flex justify-center gap-2 md:gap-2 mb-4 md:mb-6">
     {[...Array(totalPages)].map((_, idx) => {
       const page = idx;
       const isActive = page === currentPage;
@@ -21,7 +21,7 @@ const PaginationDots: React.FC<PaginationDotsProps> = ({
           type="button"
           key={page}
           onClick={() => onPageChange(page)}
-          className={`w-5 md:w-14 h-1 rounded-full transition duration-300 easy-in-out cursor-pointer ${
+          className={`w-8 md:w-14 h-1 rounded-full transition duration-300 easy-in-out cursor-pointer ${
             isActive ? "bg-indigo-200 shadow-lg" : "bg-white/20"
           } `}
           aria-label={`Go to card ${page + 1}`}
