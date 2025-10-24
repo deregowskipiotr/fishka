@@ -1,4 +1,5 @@
 // src/components/VocabularyCard.tsx
+"use client"
 import React from "react";
 import { motion } from "framer-motion";
 import SpinningArrows from "./SpinningArrow";
@@ -21,7 +22,7 @@ const VocabularyCard: React.FC<VocabularyCardProps> = ({
   const toggleFlip = () => setIsFlipped((f) => !f);
 
   return (
-    <div className="relative w-full h-60 perspective " onClick={toggleFlip}>
+    <div className="relative w-full h-80 md:h-60 perspective " onClick={toggleFlip}>
       <motion.div
         className="w-full h-full shadow-xl"
         animate={{ rotateY: isFlipped ? 180 : 0 }}
@@ -30,7 +31,7 @@ const VocabularyCard: React.FC<VocabularyCardProps> = ({
       >
         {/* Front Side */}
         <div className="absolute w-full h-full backface-hidden flex flex-col justify-center items-center p-8 bg-black/40 border border-white/20 rounded-lg">
-          <h2 className="text-3xl font-semibold italic tracking-wide uppercase text-indigo-200 mb-4 h-1/5">
+          <h2 className=" text-xl md:text-3xl font-semibold italic tracking-wide uppercase text-indigo-200 mb-4 h-1/5">
             {word}
           </h2>
           <p className="text-white text-center mb-6 h-3/5">{explanation}</p>
@@ -51,7 +52,7 @@ const VocabularyCard: React.FC<VocabularyCardProps> = ({
 
         {/* Back Side */}
         <div className="absolute w-full h-full backface-hidden rotate-y-180 bg-white/20 border border-white/10 flex flex-col p-8 text-white text-center rounded-lg">
-          <div className="flex flex-col items-start justify-center h-4/5 gap-4">
+          <div className="flex flex-col items-start justify-center h-4/5 gap-4 leading-tight md:leading-normal">
             <p className="-mt-4 text-start">
               <span className="text-indigo-200 font-bold pr-2">Level B1/B2:</span>
               {example}
