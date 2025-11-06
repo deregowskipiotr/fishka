@@ -8,73 +8,52 @@ export interface VocabularyWord {
 
 export const vocabularyWords: VocabularyWord[] = [
   {
-    word: "will-o'-the-wisp",
-    explanation: "Something that is hard to reach or achieve; an illusion.",
-    example: "For many people, true happiness seems like a will-o'-the-wisp.",
-    example1: "Chasing his artistic dreams turned out to be a will-o'-the-wisp that consumed years of fruitless effort.",
-  },
-  {
-    word: "to set sail",
-    explanation: "To begin a journey by sea; to start an adventure.",
-    example: "They set sail early in the morning to explore new islands.",
-    example1: "Before they set sail, the captain insisted on inspecting every inch of the vessel for safety.",
-  },
-  {
-    word: "bane",
-    explanation: "A cause of great distress or annoyance.",
-    example: "Traffic jams are the bane of my daily commute.",
-    example1: "His relentless ambition proved to be both the driving force behind his success and the bane of his personal life.",
-  },
-  {
-    word: "to contemplate",
-    explanation: "To think deeply or carefully about something.",
-    example: "He sat by the window to contemplate his next move.",
-    example1:
-      "She contemplated the moral implications of her decision long before taking action.",
-  },
-  {
-    word: "to bask",
-    explanation: "To enjoy warmth or admiration.",
-    example: "The cat basked in the sunlight on the windowsill.",
-    example1:
-      "He basked in the success of his latest novel, receiving praise from critics worldwide.",
-  },
-  {
-    word: "to envision",
-    explanation: "To imagine something as a future possibility.",
-    example: "She envisioned a world where everyone could live peacefully.",
-    example1:
-      "The architect envisioned a city that seamlessly blends technology and nature.",
-  },
-  {
-    word: "abstemious",
+    word: "Apostrophe + s for singular",
     explanation:
-      "Not allowing oneself much indulgence; moderate in eating or drinking.",
-    example: "He lived an abstemious life, avoiding alcohol and junk food.",
-    example1:
-      "Despite his wealth, he remained abstemious, preferring simplicity over luxury.",
+      "Add ’s to a singular noun to show that one person, animal, or thing owns something.",
+    example: "The dog’s bowl is empty.",
+    example1: "Jessica’s umbrella never survives windy days.",
   },
   {
-    word: "to freeload",
-    explanation: "To take advantage of others by not paying or contributing.",
-    example: "He always tries to freeload when we go out for dinner.",
-    example1:
-      "Some guests tended to freeload at social gatherings without offering any help or food.",
-  },
-  {
-    word: "slew",
-    explanation: "A large number or amount of something.",
-    example:
-      "The company received a slew of job applications after posting the ad.",
-    example1:
-      "She faced a slew of challenges during her first year as a manager.",
-  },
-  {
-    word: "maritime",
+    word: "s + apostrophe for plural ending in s",
     explanation:
-      "Connected with the sea, especially in relation to navigation or trade.",
-    example: "The city has a rich maritime history.",
-    example1:
-      "Maritime law governs all activities and disputes occurring on international waters.",
+      "Add just an apostrophe to a plural noun that ends with s to show that several own something.",
+    example: "The players’ lockers smell suspiciously like socks.",
+    example1: "The twins’ laughter filled the house.",
+  },
+  {
+    word: "Apostrophe + s for irregular plurals",
+    explanation:
+      "Use ’s for irregular plurals that don’t end in s, like children, men, women.",
+    example: "The children’s toys cover the entire floor.",
+    example1: "The women’s tournament starts tomorrow.",
+  },
+  {
+    word: "No apostrophe in possessive pronouns",
+    explanation:
+      "Possessive pronouns like mine, yours, his, hers, its, ours, theirs already show ownership and never use an apostrophe.",
+    example: "The green bag is mine.",
+    example1: "Which book is yours?",
+  },
+  {
+    word: "It's vs. its",
+    explanation:
+      "‘It’s’ means ‘it is’ or ‘it has’. ‘Its’ is the possessive for ‘it’ and means ‘belonging to it’.",
+    example: "It’s raining, but the cat cleaned its whiskers.",
+    example1: "It’s been a long week; its ending feels peaceful.",
+  },
+  {
+    word: "Use 'of' for awkward expressions",
+    explanation:
+      "When the possessive with ’s is confusing or too long, use 'of' instead to show ownership.",
+    example: "The cover of the magazine was shiny.",
+    example1: "The ending of the film surprised everyone.",
+  },
+  {
+    word: "Stack possessives carefully",
+    explanation:
+      "Chain possessive forms to show complicated relationships, but more than two or three can confuse your reader.",
+    example: "My neighbor’s cat’s collar is missing.",
+    example1: "The teacher’s friend’s birthday cake was a disaster.",
   },
 ];
