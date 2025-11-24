@@ -8,81 +8,81 @@ export interface VocabularyWord {
 
 export const vocabularyWords: VocabularyWord[] = [
   {
-    word: "omnipresent",
-    explanation: "Being everywhere at the same time; found or seen everywhere.",
-    example: "Smartphones are omnipresent in today’s world.",
-    example1:
-      "Social media has become an omnipresent force shaping modern communication.",
-  },
-  {
-    word: "to go ape (over)",
-    explanation: "To become very excited, angry, or emotional about something.",
-    example: "The fans went ape over the band’s new song.",
-    example1:
-      "Investors went ape over the company’s unexpected profits announcement.",
-  },
-  {
-    word: "to bestow",
+    word: "peg",
     explanation:
-      "To give something valuable or important, usually as an honor or gift.",
-    example: "The university bestowed an award on her for her research.",
+      "To attach, fix, or mark something using a pin, or to identify or estimate something.",
+    example: "She pegged the clothes to the line to dry after washing them.",
     example1:
-      "He was bestowed with the title of honorary citizen for his lifetime achievements.",
+      "Economists attempted to peg the future value of the dollar against emerging market currencies, despite fluctuating global conditions.",
   },
   {
-    word: "(to have a) knack (for)",
-    explanation: "To have a natural skill or talent for doing something well.",
-    example: "She has a knack for remembering people’s names.",
-    example1:
-      "He has an uncanny knack for turning ordinary ideas into successful businesses.",
-  },
-  {
-    word: "jack-of-all-trades",
-    explanation:
-      "A person who can do many different types of work or has many skills.",
-    example: "My brother is a jack-of-all-trades; he can fix anything at home.",
-    example1:
-      "As a startup founder, she had to be a jack-of-all-trades, handling coding, design, and marketing herself.",
-  },
-  {
-    word: "to take its/a toll on",
-    explanation:
-      "To have a bad effect on someone or something, especially over time.",
-    example: "Stress can take its toll on your health.",
-    example1:
-      "Years of overworking eventually took a heavy toll on his physical and mental well-being.",
-  },
-  {
-    word: "animosity",
-    explanation:
-      "Strong dislike or hatred between people, often lasting a long time.",
-    example: "There is still animosity between the two teams.",
-    example1:
-      "Political animosity between the rivals derailed any chance of cooperation.",
-  },
-  {
-    word: "prowess",
-    explanation:
-      "Great skill or ability, especially at doing something difficult.",
+    word: "mundane",
+    explanation: "Ordinary, boring, or not interesting; related to daily life.",
     example:
-      "The athlete showed impressive physical prowess during the competition.",
+      "He was tired of his mundane job and wanted something more exciting.",
     example1:
-      "Her linguistic prowess allowed her to master multiple languages effortlessly.",
+      "Despite outward success, she struggled with the mundane realities of balancing her high-profile career with personal fulfillment.",
   },
   {
-    word: "galore",
-    explanation: "In large numbers or amounts; plenty of something available.",
-    example: "There were prizes galore at the festival.",
+    word: "render",
+    explanation: "To cause something to be in a particular condition; to make.",
+    example: "The rain rendered the road slippery and dangerous.",
     example1:
-      "The luxury resort offered indulgence galore, from fine dining to private beaches.",
+      "The documentary rendered the complexities of political upheaval with such nuance that viewers were left contemplating its implications for days.",
   },
   {
-    word: "vicissitudes (of life/fortune)",
+    word: "puerile",
+    explanation: "Childish or silly, lacking maturity.",
+    example: "His puerile jokes made everyone roll their eyes.",
+    example1:
+      "During the serious negotiations, her puerile remarks undermined her credibility among the senior executives.",
+  },
+  {
+    word: "ephemeral",
+    explanation: "Lasting for only a short time; fleeting.",
+    example:
+      "The beauty of the sunset was ephemeral, fading quickly into night.",
+    example1:
+      "Art that explores ephemeral experiences challenges viewers to appreciate moments that vanish almost as soon as they arise.",
+  },
+  {
+    word: "proverbial",
+    explanation: "Well-known because it is often talked about; like a proverb.",
+    example: "He became the proverbial black sheep of the family.",
+    example1:
+      "While the company was a proverbial overnight success, few recognized the years of meticulous planning behind it.",
+  },
+  {
+    word: "embody",
     explanation:
-      "The changes or unexpected difficulties that happen in life or fortune.",
-    example: "She stayed positive through the vicissitudes of life.",
+      "To represent or be an expression of an idea, quality, or feeling.",
+    example: "She embodied kindness through her generous actions.",
     example1:
-      "Despite the vicissitudes of fortune, his resolve and optimism never wavered.",
+      "The new constitution embodies the nation’s progressive vision, cementing civil liberties as its cornerstone.",
+  },
+  {
+    word: "entranced",
+    explanation:
+      "So interested or amazed by something that you cannot look away; mesmerized.",
+    example: "The audience was entranced by the magician's performance.",
+    example1:
+      "She was entranced by the pianist’s virtuosity, completely forgetting her surroundings as the final notes faded.",
+  },
+  {
+    word: "prohibitive",
+    explanation:
+      "So high (in cost or difficulty) that it prevents people from doing something.",
+    example: "The cost of the tickets was prohibitive for most students.",
+    example1:
+      "Stringent regulations and prohibitive costs have curtailed innovation in the renewable energy sector for many aspiring entrepreneurs.",
+  },
+  {
+    word: "unmatched",
+    explanation: "Better than everything else; having no equal.",
+    example: "Her cooking skills are unmatched in our family.",
+    example1:
+      "The scientist’s unmatched expertise in virology set new standards for the entire research community, inspiring future generations.",
   },
 ];
+
 
