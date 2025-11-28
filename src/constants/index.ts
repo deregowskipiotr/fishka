@@ -8,81 +8,76 @@ export interface VocabularyWord {
 
 export const vocabularyWords: VocabularyWord[] = [
   {
-    word: "peg",
-    explanation:
-      "To attach, fix, or mark something using a pin, or to identify or estimate something.",
-    example: "She pegged the clothes to the line to dry after washing them.",
-    example1:
-      "Economists attempted to peg the future value of the dollar against emerging market currencies, despite fluctuating global conditions.",
-  },
-  {
-    word: "mundane",
-    explanation: "Ordinary, boring, or not interesting; related to daily life.",
+    word: "since time immemorial",
+    explanation: "From a very long time ago, beyond memory or record.",
     example:
-      "He was tired of his mundane job and wanted something more exciting.",
+      "This tradition has been followed since time immemorial in our village.",
     example1:
-      "Despite outward success, she struggled with the mundane realities of balancing her high-profile career with personal fulfillment.",
+      "The legend has been passed down orally since time immemorial, preserving ancient cultural values.",
   },
   {
-    word: "render",
-    explanation: "To cause something to be in a particular condition; to make.",
-    example: "The rain rendered the road slippery and dangerous.",
+    word: "to immortalize",
+    explanation: "To make something or someone remembered forever.",
+    example: "The artist immortalized the hero in his statue.",
     example1:
-      "The documentary rendered the complexities of political upheaval with such nuance that viewers were left contemplating its implications for days.",
+      "Her groundbreaking work in science immortalized her name in history books.",
   },
   {
-    word: "puerile",
-    explanation: "Childish or silly, lacking maturity.",
-    example: "His puerile jokes made everyone roll their eyes.",
+    word: "to revel",
+    explanation: "To enjoy oneself in a lively and noisy way.",
+    example: "They revelled all night after winning the championship.",
     example1:
-      "During the serious negotiations, her puerile remarks undermined her credibility among the senior executives.",
+      "The crowd reveled in the festive atmosphere, celebrating without a care.",
   },
   {
-    word: "ephemeral",
-    explanation: "Lasting for only a short time; fleeting.",
-    example:
-      "The beauty of the sunset was ephemeral, fading quickly into night.",
+    word: "to dangle",
+    explanation: "To hang or swing loosely.",
+    example: "She dangled her feet over the edge of the pier.",
     example1:
-      "Art that explores ephemeral experiences challenges viewers to appreciate moments that vanish almost as soon as they arise.",
+      "The keys dangled from his fingers as he contemplated the task ahead.",
   },
   {
-    word: "proverbial",
-    explanation: "Well-known because it is often talked about; like a proverb.",
-    example: "He became the proverbial black sheep of the family.",
+    word: "to gasp",
+    explanation: "To inhale suddenly with surprise or shock.",
+    example: "She gasped when she saw the breathtaking view.",
     example1:
-      "While the company was a proverbial overnight success, few recognized the years of meticulous planning behind it.",
+      "The audience gasped in astonishment at the magician's final trick.",
   },
   {
-    word: "embody",
+    word: "spitting image",
+    explanation: "To look exactly like someone else.",
+    example: "He is the spitting image of his father.",
+    example1:
+      "The child was the spitting image of her grandmother in her youth.",
+  },
+  {
+    word: "to binge on sth",
     explanation:
-      "To represent or be an expression of an idea, quality, or feeling.",
-    example: "She embodied kindness through her generous actions.",
-    example1:
-      "The new constitution embodies the nation’s progressive vision, cementing civil liberties as its cornerstone.",
+      "To eat or consume something in large amounts over a short period.",
+    example: "He binged on sweets during the holidays.",
+    example1: "After exams, students often binge on streaming shows to relax.",
   },
   {
-    word: "entranced",
-    explanation:
-      "So interested or amazed by something that you cannot look away; mesmerized.",
-    example: "The audience was entranced by the magician's performance.",
+    word: "unquenchable",
+    explanation: "Impossible to satisfy or put an end to.",
+    example: "She had an unquenchable thirst for knowledge.",
     example1:
-      "She was entranced by the pianist’s virtuosity, completely forgetting her surroundings as the final notes faded.",
+      "His unquenchable desire for adventure led him to explore remote places.",
   },
   {
-    word: "prohibitive",
-    explanation:
-      "So high (in cost or difficulty) that it prevents people from doing something.",
-    example: "The cost of the tickets was prohibitive for most students.",
-    example1:
-      "Stringent regulations and prohibitive costs have curtailed innovation in the renewable energy sector for many aspiring entrepreneurs.",
+    word: "to supersede",
+    explanation: "To replace something with something newer or better.",
+    example: "Digital cameras have superseded film cameras in recent years.",
+    example1: "The new regulations supersede all previous rules and policies.",
   },
   {
-    word: "unmatched",
-    explanation: "Better than everything else; having no equal.",
-    example: "Her cooking skills are unmatched in our family.",
+    word: "flawless",
+    explanation: "Without any mistakes or imperfections.",
+    example: "She gave a flawless performance on stage.",
     example1:
-      "The scientist’s unmatched expertise in virology set new standards for the entire research community, inspiring future generations.",
+      "The report was flawless, showing meticulous attention to detail.",
   },
 ];
+
 
 
