@@ -24,7 +24,7 @@ const PaginationControls: React.FC<PaginationControlsProps> = ({
       type="button"
       onClick={onPrevious}
       disabled={currentPage === 0}
-      className="px-5 py-2 bg-white/20 hover:bg-white/10 text-white rounded-md cursor-pointer"
+      className="px-5 py-2 hover:bg-white/5 border border-white/20 text-white transition-colors duration-500 ease-in-out rounded-md cursor-pointer"
       aria-label="Previous card"
       title="Previous card"
     >
@@ -39,7 +39,7 @@ const PaginationControls: React.FC<PaginationControlsProps> = ({
       type="button"
       onClick={onNext}
       disabled={currentPage === totalPages - 1}
-      className="px-5 py-2 bg-white/20 hover:bg-white/10 text-white rounded-md shadow-md cursor-pointer"
+      className="px-5 py-2 hover:bg-white/5 border border-white/20 text-white transition-colors duration-500 ease-in-out rounded-md shadow-md cursor-pointer"
       aria-label="Next card"
       title="Next card"
     >

@@ -30,7 +30,7 @@ const VocabularyCard: React.FC<VocabularyCardProps> = ({
         style={{ transformStyle: "preserve-3d" }}
       >
         {/* Front Side */}
-        <div className="absolute w-full h-full backface-hidden flex flex-col justify-center items-center p-8 bg-black/40 border border-white/20 rounded-lg">
+        <div className="absolute w-full h-full backface-hidden flex flex-col justify-center items-center p-8 border backdrop-blur-sm border-white/20 rounded-lg">
           <h2 className=" text-xl md:text-2xl text-center justify-center font-semibold italic tracking-wide uppercase text-indigo-200 mb-10 md:mb-8 h-1/5 leading-tight md:leading-none">
             {word}
           </h2>
@@ -51,7 +51,7 @@ const VocabularyCard: React.FC<VocabularyCardProps> = ({
         </div>
 
         {/* Back Side */}
-        <div className="absolute w-full h-full backface-hidden rotate-y-180 bg-white/20 border border-white/10 flex flex-col p-8 text-white text-center rounded-lg">
+        <div className="absolute w-full h-full backface-hidden rotate-y-180 backdrop-blur-md bg-white/10 border border-white/10 flex flex-col p-8 text-white text-center rounded-lg">
           <div className="flex flex-col items-start justify-center h-4/5 gap-4 leading-tight md:leading-normal">
             <p className="-mt-4 text-start">
               <span className="text-indigo-200 font-bold pr-2">Level B1/B2:</span>
