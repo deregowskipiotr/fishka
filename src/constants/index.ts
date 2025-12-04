@@ -8,76 +8,78 @@ export interface VocabularyWord {
 
 export const vocabularyWords: VocabularyWord[] = [
   {
-    word: "since time immemorial",
-    explanation: "From a very long time ago, beyond memory or record.",
+    word: "prescient",
+    explanation: "Having or showing knowledge of events before they happen.",
     example:
-      "This tradition has been followed since time immemorial in our village.",
+      "Her prescient comments about the market proved correct a year later.",
     example1:
-      "The legend has been passed down orally since time immemorial, preserving ancient cultural values.",
+      "The author's prescient vision of technological change now seems almost prophetic.",
   },
   {
-    word: "to immortalize",
-    explanation: "To make something or someone remembered forever.",
-    example: "The artist immortalized the hero in his statue.",
+    word: "topsy-turvy",
+    explanation: "In a state of confusion, disorder, or chaos.",
+    example: "After the move, everything in the house was topsy-turvy.",
     example1:
-      "Her groundbreaking work in science immortalized her name in history books.",
+      "The sudden resignation threw the company’s future into a topsy-turvy uncertainty.",
   },
   {
-    word: "to revel",
-    explanation: "To enjoy oneself in a lively and noisy way.",
-    example: "They revelled all night after winning the championship.",
+    word: "klutzy",
+    explanation: "Clumsy or awkward in movement or behavior.",
+    example: "I’m a bit klutzy, so I bumped into the table again.",
     example1:
-      "The crowd reveled in the festive atmosphere, celebrating without a care.",
+      "Despite being notoriously klutzy, she managed to keep her balance during the performance.",
   },
   {
-    word: "to dangle",
-    explanation: "To hang or swing loosely.",
-    example: "She dangled her feet over the edge of the pier.",
-    example1:
-      "The keys dangled from his fingers as he contemplated the task ahead.",
-  },
-  {
-    word: "to gasp",
-    explanation: "To inhale suddenly with surprise or shock.",
-    example: "She gasped when she saw the breathtaking view.",
-    example1:
-      "The audience gasped in astonishment at the magician's final trick.",
-  },
-  {
-    word: "spitting image",
-    explanation: "To look exactly like someone else.",
-    example: "He is the spitting image of his father.",
-    example1:
-      "The child was the spitting image of her grandmother in her youth.",
-  },
-  {
-    word: "to binge on sth",
+    word: "for want of a better word",
     explanation:
-      "To eat or consume something in large amounts over a short period.",
-    example: "He binged on sweets during the holidays.",
-    example1: "After exams, students often binge on streaming shows to relax.",
-  },
-  {
-    word: "unquenchable",
-    explanation: "Impossible to satisfy or put an end to.",
-    example: "She had an unquenchable thirst for knowledge.",
+      "Used when you can’t find a more accurate or suitable expression.",
+    example: "He was, for want of a better word, unusual.",
     example1:
-      "His unquenchable desire for adventure led him to explore remote places.",
+      "The mood was, for want of a better word, electric—an indescribable mix of fear and excitement.",
   },
   {
-    word: "to supersede",
-    explanation: "To replace something with something newer or better.",
-    example: "Digital cameras have superseded film cameras in recent years.",
-    example1: "The new regulations supersede all previous rules and policies.",
-  },
-  {
-    word: "flawless",
-    explanation: "Without any mistakes or imperfections.",
-    example: "She gave a flawless performance on stage.",
+    word: "to imbibe",
+    explanation:
+      "To drink, especially alcohol; or to absorb ideas or knowledge.",
+    example: "We sat by the fire and imbibed a few glasses of wine.",
     example1:
-      "The report was flawless, showing meticulous attention to detail.",
+      "She eagerly imbibed the revolutionary ideas circulating among artists of that era.",
+  },
+  {
+    word: "cheek by jowl",
+    explanation: "Very close together; side by side.",
+    example: "The houses in the old town stand cheek by jowl.",
+    example1:
+      "Different cultures live cheek by jowl in this vibrant district of the city.",
+  },
+  {
+    word: "to slouch",
+    explanation: "To sit, stand, or walk with shoulders and head bent forward.",
+    example: "Don’t slouch at your desk—it’s bad for your posture.",
+    example1:
+      "He slouched into the meeting, exuding an air of casual indifference that irritated his boss.",
+  },
+  {
+    word: "ignominious",
+    explanation: "Deserving or causing public disgrace or shame.",
+    example: "The team suffered an ignominious defeat in the finals.",
+    example1:
+      "The politician’s career ended in an ignominious scandal that ruined his reputation.",
+  },
+  {
+    word: "cesspit",
+    explanation: "A disgusting or corrupt place; a pit for waste matter.",
+    example: "The back alley was a cesspit of rubbish and bad smells.",
+    example1:
+      "The scandal exposed the company as a cesspit of greed and incompetence.",
+  },
+  {
+    word: "to oust",
+    explanation: "To force someone out of a position or place.",
+    example: "The rebels tried to oust the president from power.",
+    example1:
+      "Shareholders voted to oust the CEO after a series of disastrous financial decisions.",
   },
 ];
-
 
 
