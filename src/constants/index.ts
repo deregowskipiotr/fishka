@@ -8,77 +8,82 @@ export interface VocabularyWord {
 
 export const vocabularyWords: VocabularyWord[] = [
   {
-    word: "prescient",
-    explanation: "Having or showing knowledge of events before they happen.",
+    word: "dreaded",
+    explanation: "Causing great fear, worry, or strong dislike.",
     example:
-      "Her prescient comments about the market proved correct a year later.",
+      "For many students, the dreaded final exam decides their whole grade.",
     example1:
-      "The author's prescient vision of technological change now seems almost prophetic.",
+      "The dreaded deadline loomed over the team, intensifying the pressure to deliver on time.",
   },
   {
-    word: "topsy-turvy",
-    explanation: "In a state of confusion, disorder, or chaos.",
-    example: "After the move, everything in the house was topsy-turvy.",
+    word: "concomitantly",
+    explanation: "At the same time as something else; together with it.",
+    example: "As her English improved, her confidence grew concomitantly.",
     example1:
-      "The sudden resignation threw the company’s future into a topsy-turvy uncertainty.",
+      "The company expanded concomitantly in several markets, carefully coordinating each product launch.",
   },
   {
-    word: "klutzy",
-    explanation: "Clumsy or awkward in movement or behavior.",
-    example: "I’m a bit klutzy, so I bumped into the table again.",
+    word: "superfluously",
+    explanation: "In a way that is more than necessary; unnecessarily.",
+    example: "He spoke superfluously, adding details that nobody needed.",
     example1:
-      "Despite being notoriously klutzy, she managed to keep her balance during the performance.",
+      "The report was written superfluously, burying key findings under layers of decorative language.",
   },
   {
-    word: "for want of a better word",
+    word: "recess",
+    explanation: "A short break from work, school, or an activity.",
+    example: "The children ran to the playground as soon as recess started.",
+    example1:
+      "During a brief recess in the negotiations, both sides reconsidered their positions.",
+  },
+  {
+    word: "to come to fruition",
     explanation:
-      "Used when you can’t find a more accurate or suitable expression.",
-    example: "He was, for want of a better word, unusual.",
+      "To be completed successfully or become real after work or planning.",
+    example:
+      "After months of practice, his dream of studying abroad finally came to fruition.",
     example1:
-      "The mood was, for want of a better word, electric—an indescribable mix of fear and excitement.",
+      "The long-discussed reforms will only come to fruition if there is consistent political will.",
   },
   {
-    word: "to imbibe",
+    word: "thereof",
+    explanation: "Of the thing that was just mentioned (formal).",
+    example: "The contract and all parts thereof must be read carefully.",
+    example1:
+      "The report outlines the new policy and the expected consequences thereof for small businesses.",
+  },
+  {
+    word: "nutrition",
     explanation:
-      "To drink, especially alcohol; or to absorb ideas or knowledge.",
-    example: "We sat by the fire and imbibed a few glasses of wine.",
+      "The process of taking in and using food for health and growth.",
+    example:
+      "Good nutrition is essential for children to grow strong and healthy.",
     example1:
-      "She eagerly imbibed the revolutionary ideas circulating among artists of that era.",
+      "Public campaigns now emphasize that proper nutrition is as critical to mental health as it is to physical wellbeing.",
   },
   {
-    word: "cheek by jowl",
-    explanation: "Very close together; side by side.",
-    example: "The houses in the old town stand cheek by jowl.",
+    word: "robust",
+    explanation: "Strong, healthy, or effective; not easily weakened.",
+    example: "They built a robust system that can handle thousands of users.",
     example1:
-      "Different cultures live cheek by jowl in this vibrant district of the city.",
+      "Only a robust economy can support the level of social spending proposed in the new budget.",
   },
   {
-    word: "to slouch",
-    explanation: "To sit, stand, or walk with shoulders and head bent forward.",
-    example: "Don’t slouch at your desk—it’s bad for your posture.",
+    word: "takeaway",
+    explanation:
+      "The main point to remember from something, or food you buy to eat elsewhere.",
+    example:
+      "The main takeaway from the meeting was that we must improve customer service.",
     example1:
-      "He slouched into the meeting, exuding an air of casual indifference that irritated his boss.",
+      "For me, the key takeaway from the book was how easily small daily habits shape long‑term success.",
   },
   {
-    word: "ignominious",
-    explanation: "Deserving or causing public disgrace or shame.",
-    example: "The team suffered an ignominious defeat in the finals.",
+    word: "confines",
+    explanation: "The limits or borders of a place, area, or activity.",
+    example:
+      "Within the confines of the classroom, students must follow the rules.",
     example1:
-      "The politician’s career ended in an ignominious scandal that ruined his reputation.",
-  },
-  {
-    word: "cesspit",
-    explanation: "A disgusting or corrupt place; a pit for waste matter.",
-    example: "The back alley was a cesspit of rubbish and bad smells.",
-    example1:
-      "The scandal exposed the company as a cesspit of greed and incompetence.",
-  },
-  {
-    word: "to oust",
-    explanation: "To force someone out of a position or place.",
-    example: "The rebels tried to oust the president from power.",
-    example1:
-      "Shareholders voted to oust the CEO after a series of disastrous financial decisions.",
+      "The study focused on behavior within the confines of urban environments rather than rural communities.",
   },
 ];
 
