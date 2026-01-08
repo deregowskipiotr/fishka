@@ -8,83 +8,63 @@ export interface VocabularyWord {
 
 export const vocabularyWords: VocabularyWord[] = [
   {
-    word: "dreaded",
-    explanation: "Causing great fear, worry, or strong dislike.",
-    example:
-      "For many students, the dreaded final exam decides their whole grade.",
-    example1:
-      "The dreaded deadline loomed over the team, intensifying the pressure to deliver on time.",
+    word: "to hit the mark",
+    explanation: "To be accurate or successful in achieving a goal.",
+    example: "The team's new strategy helped them hit the mark and win the game.",
+    example1: "Her precise analysis hit the mark perfectly, resolving the longstanding debate among experts."
   },
   {
-    word: "concomitantly",
-    explanation: "At the same time as something else; together with it.",
-    example: "As her English improved, her confidence grew concomitantly.",
-    example1:
-      "The company expanded concomitantly in several markets, carefully coordinating each product launch.",
+    word: "blatantly",
+    explanation: "In an obvious way, without trying to hide it.",
+    example: "He blatantly ignored the rules by parking in the wrong place.",
+    example1: "The politician blatantly disregarded ethical norms, sparking widespread public outrage."
   },
   {
-    word: "superfluously",
-    explanation: "In a way that is more than necessary; unnecessarily.",
-    example: "He spoke superfluously, adding details that nobody needed.",
-    example1:
-      "The report was written superfluously, burying key findings under layers of decorative language.",
+    word: "endeavour",
+    explanation: "An effort or attempt to achieve something.",
+    example: "Her endeavour to learn English paid off after months of study.",
+    example1: "The collective endeavour of scientists worldwide accelerated the vaccine's development amid the crisis."
   },
   {
-    word: "recess",
-    explanation: "A short break from work, school, or an activity.",
-    example: "The children ran to the playground as soon as recess started.",
-    example1:
-      "During a brief recess in the negotiations, both sides reconsidered their positions.",
+    word: "therein",
+    explanation: "In that place, document, or thing mentioned.",
+    example: "The book explains the rules, and the answers are therein.",
+    example1: "The contract specifies obligations, with penalties detailed therein for non-compliance."
   },
   {
-    word: "to come to fruition",
-    explanation:
-      "To be completed successfully or become real after work or planning.",
-    example:
-      "After months of practice, his dream of studying abroad finally came to fruition.",
-    example1:
-      "The long-discussed reforms will only come to fruition if there is consistent political will.",
+    word: "auspicious",
+    explanation: "Favorable or promising good luck.",
+    example: "The sunny weather was an auspicious start to the wedding day.",
+    example1: "The auspicious alignment of market trends and innovation propelled the startup to unprecedented success."
   },
   {
-    word: "thereof",
-    explanation: "Of the thing that was just mentioned (formal).",
-    example: "The contract and all parts thereof must be read carefully.",
-    example1:
-      "The report outlines the new policy and the expected consequences thereof for small businesses.",
+    word: "inception",
+    explanation: "The beginning or start of something.",
+    example: "Since the inception of the club, it has grown a lot.",
+    example1: "From its inception, the policy has undergone rigorous scrutiny and iterative refinements."
   },
   {
-    word: "nutrition",
-    explanation:
-      "The process of taking in and using food for health and growth.",
-    example:
-      "Good nutrition is essential for children to grow strong and healthy.",
-    example1:
-      "Public campaigns now emphasize that proper nutrition is as critical to mental health as it is to physical wellbeing.",
+    word: "fierce",
+    explanation: "Very strong, intense, or aggressive.",
+    example: "There was fierce competition between the two teams.",
+    example1: "Fierce geopolitical tensions underscored the fragility of international alliances."
   },
   {
-    word: "robust",
-    explanation: "Strong, healthy, or effective; not easily weakened.",
-    example: "They built a robust system that can handle thousands of users.",
-    example1:
-      "Only a robust economy can support the level of social spending proposed in the new budget.",
+    word: "eradication",
+    explanation: "Complete removal or destruction of something bad.",
+    example: "The eradication of weeds made the garden look better.",
+    example1: "Global efforts toward the eradication of polio exemplify coordinated public health triumphs."
   },
   {
-    word: "takeaway",
-    explanation:
-      "The main point to remember from something, or food you buy to eat elsewhere.",
-    example:
-      "The main takeaway from the meeting was that we must improve customer service.",
-    example1:
-      "For me, the key takeaway from the book was how easily small daily habits shape long‑term success.",
+    word: "many's the time",
+    explanation: "Happened many times in the past.",
+    example: "Many's the time I've forgotten my keys at home.",
+    example1: "Many's the time we've navigated such vicissitudes, emerging resilient from adversity."
   },
   {
-    word: "confines",
-    explanation: "The limits or borders of a place, area, or activity.",
-    example:
-      "Within the confines of the classroom, students must follow the rules.",
-    example1:
-      "The study focused on behavior within the confines of urban environments rather than rural communities.",
-  },
+    word: "inconceivable",
+    explanation: "Impossible or very hard to believe.",
+    example: "It is inconceivable that he forgot the meeting.",
+    example1: "The inconceivable scale of quantum phenomena challenges classical intuitions of reality."
+  }
 ];
-
-
