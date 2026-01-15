@@ -8,63 +8,85 @@ export interface VocabularyWord {
 
 export const vocabularyWords: VocabularyWord[] = [
   {
-    word: "to hit the mark",
-    explanation: "To be accurate or successful in achieving a goal.",
-    example: "The team's new strategy helped them hit the mark and win the game.",
-    example1: "Her precise analysis hit the mark perfectly, resolving the longstanding debate among experts."
+    word: "to ensconce (oneself)",
+    explanation:
+      "To make yourself very comfortable and safe in a place or position.",
+    example:
+      "After a long day, I like to ensconce myself on the sofa with a good book.",
+    example1:
+      "She ensconced herself in the armchair by the fireplace, wrapped in a blanket, and completely disappeared into her novel.",
   },
   {
-    word: "blatantly",
-    explanation: "In an obvious way, without trying to hide it.",
-    example: "He blatantly ignored the rules by parking in the wrong place.",
-    example1: "The politician blatantly disregarded ethical norms, sparking widespread public outrage."
+    word: "tepid",
+    explanation:
+      "Slightly warm, not hot; also used to describe a reaction that is not very enthusiastic.",
+    example: "The coffee was tepid, so I asked for a fresh cup.",
+    example1:
+      "The audience gave a rather tepid response to the speech, which suggested they were not particularly impressed.",
   },
   {
-    word: "endeavour",
-    explanation: "An effort or attempt to achieve something.",
-    example: "Her endeavour to learn English paid off after months of study.",
-    example1: "The collective endeavour of scientists worldwide accelerated the vaccine's development amid the crisis."
+    word: "chiselled",
+    explanation:
+      "Having very clear, strong facial features (often used to describe a handsome face).",
+    example: "He has a chiselled jaw and looks like a movie star.",
+    example1:
+      "The actor’s chiselled features and intense gaze made him instantly recognisable in every frame of the film.",
   },
   {
-    word: "therein",
-    explanation: "In that place, document, or thing mentioned.",
-    example: "The book explains the rules, and the answers are therein.",
-    example1: "The contract specifies obligations, with penalties detailed therein for non-compliance."
+    word: "boisterous",
+    explanation:
+      "Loud, energetic, and a bit wild; often used for children, parties, or weather.",
+    example:
+      "The children were so boisterous that the teacher had to ask them to be quieter.",
+    example1:
+      "The boisterous crowd at the concert sang along at the top of their voices, creating an electric atmosphere.",
   },
   {
-    word: "auspicious",
-    explanation: "Favorable or promising good luck.",
-    example: "The sunny weather was an auspicious start to the wedding day.",
-    example1: "The auspicious alignment of market trends and innovation propelled the startup to unprecedented success."
+    word: "to root for",
+    explanation:
+      "To support or cheer for someone, especially in a competition or difficult situation.",
+    example: "I always root for the underdog in sports matches.",
+    example1:
+      "Despite the odds, the whole nation was rooting for the young athlete to win the final race.",
   },
   {
-    word: "inception",
-    explanation: "The beginning or start of something.",
-    example: "Since the inception of the club, it has grown a lot.",
-    example1: "From its inception, the policy has undergone rigorous scrutiny and iterative refinements."
+    word: "feast for the eyes",
+    explanation:
+      "Something very beautiful to look at; a very attractive sight.",
+    example: "The sunset over the sea was a real feast for the eyes.",
+    example1:
+      "The palace gardens, with their perfectly arranged flowers and fountains, were a true feast for the eyes.",
   },
   {
-    word: "fierce",
-    explanation: "Very strong, intense, or aggressive.",
-    example: "There was fierce competition between the two teams.",
-    example1: "Fierce geopolitical tensions underscored the fragility of international alliances."
+    word: "deleterious",
+    explanation:
+      "Harmful, especially in a way that is not immediately obvious.",
+    example: "Smoking has a deleterious effect on your health.",
+    example1:
+      "The report highlighted the deleterious impact of long‑term stress on both mental and physical well‑being.",
   },
   {
-    word: "eradication",
-    explanation: "Complete removal or destruction of something bad.",
-    example: "The eradication of weeds made the garden look better.",
-    example1: "Global efforts toward the eradication of polio exemplify coordinated public health triumphs."
+    word: "to reignite",
+    explanation:
+      "To start again or give new energy to something (like a fire, an argument, or a relationship).",
+    example: "That old photo really reignited my interest in photography.",
+    example1:
+      "The scandal reignited public debate about corruption in politics, which had been quiet for months.",
   },
   {
-    word: "many's the time",
-    explanation: "Happened many times in the past.",
-    example: "Many's the time I've forgotten my keys at home.",
-    example1: "Many's the time we've navigated such vicissitudes, emerging resilient from adversity."
+    word: "forlorn",
+    explanation:
+      "Sad and lonely, often because of being abandoned or having no hope.",
+    example: "The dog looked forlorn, sitting alone in the rain.",
+    example1:
+      "She gave a forlorn smile as she watched the last bus leave without her.",
   },
   {
-    word: "inconceivable",
-    explanation: "Impossible or very hard to believe.",
-    example: "It is inconceivable that he forgot the meeting.",
-    example1: "The inconceivable scale of quantum phenomena challenges classical intuitions of reality."
-  }
+    word: "glimmer",
+    explanation:
+      "A small, faint sign of something (like hope, light, or a possibility).",
+    example: "Even in the darkest moment, there was still a glimmer of hope.",
+    example1:
+      "There was only a glimmer of evidence to support his theory, but it was enough to start a new investigation.",
+  },
 ];
