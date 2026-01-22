@@ -8,85 +8,75 @@ export interface VocabularyWord {
 
 export const vocabularyWords: VocabularyWord[] = [
   {
-    word: "to ensconce (oneself)",
-    explanation:
-      "To make yourself very comfortable and safe in a place or position.",
-    example:
-      "After a long day, I like to ensconce myself on the sofa with a good book.",
+    word: "invincibly",
+    explanation: "In a way that cannot be defeated or overcome; unbeatable.",
+    example: "The team played invincibly and won every match.",
     example1:
-      "She ensconced herself in the armchair by the fireplace, wrapped in a blanket, and completely disappeared into her novel.",
+      "Despite fierce opposition, she argued her point invincibly, leaving no room for doubt.",
   },
   {
-    word: "tepid",
-    explanation:
-      "Slightly warm, not hot; also used to describe a reaction that is not very enthusiastic.",
-    example: "The coffee was tepid, so I asked for a fresh cup.",
+    word: "feat",
+    explanation: "An achievement that needs great skill, strength, or courage.",
+    example: "Climbing that mountain was an amazing feat.",
     example1:
-      "The audience gave a rather tepid response to the speech, which suggested they were not particularly impressed.",
+      "The engineer's construction of the bridge in record time was a remarkable feat of modern engineering.",
   },
   {
-    word: "chiselled",
-    explanation:
-      "Having very clear, strong facial features (often used to describe a handsome face).",
-    example: "He has a chiselled jaw and looks like a movie star.",
+    word: "winning streak",
+    explanation: "A series of continuous victories or successes.",
+    example: "The football team is on a winning streak of five games.",
     example1:
-      "The actor’s chiselled features and intense gaze made him instantly recognisable in every frame of the film.",
+      "The stock trader's winning streak came to an abrupt end with the market crash.",
   },
   {
-    word: "boisterous",
-    explanation:
-      "Loud, energetic, and a bit wild; often used for children, parties, or weather.",
-    example:
-      "The children were so boisterous that the teacher had to ask them to be quieter.",
+    word: "to clinch",
+    explanation: "To secure or win something, like a victory or deal.",
+    example: "They scored a goal to clinch the match.",
     example1:
-      "The boisterous crowd at the concert sang along at the top of their voices, creating an electric atmosphere.",
+      "The final piece of evidence helped the lawyer clinch the case in court.",
   },
   {
-    word: "to root for",
+    word: "billing",
     explanation:
-      "To support or cheer for someone, especially in a competition or difficult situation.",
-    example: "I always root for the underdog in sports matches.",
+      "The act of sending a bill or invoice for payment (also top position in ads).",
+    example: "The restaurant sent me the billing for dinner.",
     example1:
-      "Despite the odds, the whole nation was rooting for the young athlete to win the final race.",
+      "The star actor received top billing on the movie poster, ensuring maximum attention.",
   },
   {
-    word: "feast for the eyes",
+    word: "puff",
     explanation:
-      "Something very beautiful to look at; a very attractive sight.",
-    example: "The sunset over the sea was a real feast for the eyes.",
+      "A small burst of air, smoke, or breath; also to breathe heavily.",
+    example: "He took a puff from his cigarette and exhaled slowly.",
     example1:
-      "The palace gardens, with their perfectly arranged flowers and fountains, were a true feast for the eyes.",
+      "The steam train puffed steadily up the steep hill, billowing clouds behind it.",
   },
   {
-    word: "deleterious",
-    explanation:
-      "Harmful, especially in a way that is not immediately obvious.",
-    example: "Smoking has a deleterious effect on your health.",
+    word: "to catch sb unawares",
+    explanation: "To surprise someone when they are not expecting it.",
+    example: "The rain caught us unawares on the walk home.",
     example1:
-      "The report highlighted the deleterious impact of long‑term stress on both mental and physical well‑being.",
+      "The sudden question in the interview caught the candidate unawares, testing her quick thinking.",
   },
   {
-    word: "to reignite",
-    explanation:
-      "To start again or give new energy to something (like a fire, an argument, or a relationship).",
-    example: "That old photo really reignited my interest in photography.",
+    word: "undismayed",
+    explanation: "Not discouraged or upset by difficulties.",
+    example: "Undismayed by the loss, the team trained harder.",
     example1:
-      "The scandal reignited public debate about corruption in politics, which had been quiet for months.",
+      "The explorers, undismayed by the harsh weather, pressed on toward the summit.",
   },
   {
-    word: "forlorn",
-    explanation:
-      "Sad and lonely, often because of being abandoned or having no hope.",
-    example: "The dog looked forlorn, sitting alone in the rain.",
+    word: "unpretentious",
+    explanation: "Simple and natural, without trying to impress.",
+    example: "The restaurant serves great food in an unpretentious setting.",
     example1:
-      "She gave a forlorn smile as she watched the last bus leave without her.",
+      "Despite his fame, the author remained unpretentious, chatting casually with fans.",
   },
   {
-    word: "glimmer",
-    explanation:
-      "A small, faint sign of something (like hope, light, or a possibility).",
-    example: "Even in the darkest moment, there was still a glimmer of hope.",
+    word: "a feather in sb's cap",
+    explanation: "An achievement you can be proud of.",
+    example: "Winning the prize was a feather in her cap.",
     example1:
-      "There was only a glimmer of evidence to support his theory, but it was enough to start a new investigation.",
+      "Publishing the book at such a young age was a significant feather in the writer's cap.",
   },
 ];
